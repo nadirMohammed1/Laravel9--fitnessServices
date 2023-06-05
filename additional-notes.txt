@@ -1,0 +1,52 @@
+php migrate // to start the migration process.
+php artisan list // view all commands available for usage
+php artisan help // view helper line commands.
+// for the required parameters
+@srcf protection form
+
+for parameter "/param/{a}/{b}"
+\\sending the parameters to other veiws
+insied a function(){
+
+view("jkjkskj.test,[
+	"id"=>"this functions id ",
+		....
+]
+
+}
+
+that view will say {{}} you can use me to get from the old parameters in this blade part of php.
+
+
+forms how to get them 
+
+for example view/ form33
+in that form tag @csrf important 
+
+action = "/save" basically name of a function
+submit method get or post or head
+
+// now when done visit controller and activate the get method for the save function 
+
+letter define the save(){
+now get infomation from form
+echo "name" : "$_REQUEST["fname"] // should be the same as the name values from the form
+function and what it will do
+}
+
+// additionaly the save  function can have a parameter(Request request ){}{}
+
+
+
+
+**************************************************************other stuff*****************************************************************************************
+building layouts
+in the layout directory ofcourse
+_____________________________________
+https://laravel.com/docs/9.x/blade#building-layouts
+1.@yeild('content')
+
+
+
+
+
